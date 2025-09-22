@@ -14,5 +14,6 @@ knitr::opts_chunk$set(echo = TRUE)
 summary(cars)
 plot(cars)
 hist(cars$speed)
-boxplot(cars$dist)
+boxplot(cars$dist) 
 ```
+
