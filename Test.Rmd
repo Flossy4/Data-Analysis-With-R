@@ -10,3 +10,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## R Markdown
+```{r}
+summary(cars)
+plot(cars)
+hist(cars$speed)
+boxplot(cars$dist)
+```
